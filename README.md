@@ -1,19 +1,36 @@
 ### Hi there 👋
 
+I'm an  Android and Flutter developer
 
-- 🔭 I’m currently working on Andriod Native and Flutter projects
-- 👯 I’m looking to collaborate on projects that require Android or iOS applications
-- 💬 Ask me about mobile app development
-- 📫 How to reach me: marjan.dn96@yahoo.com
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=marjandn)
+## 📌 GitHub Stats and Top Languages
 
-<!--
-**marjandn/marjandn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=marjandn&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
+</p>
+<p> 
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjandn&layout=compact&theme=dark" />
+</p>
 
- - 🌱 I’m currently learning dive Flutter 
- - 🤔 I’m looking for help with ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ... 
--->
+## 💻 Technologies in which I specialize ( always learning :wink: )
+- Kotlin
+- Java
+- Dart
+- GetX
+- MVVM
+- RxJava
+- Socket.io
+- Android Architecture Components
+- Coroutines
+- Firebse Services
+- Google Map apis
+- SOLID
+- TDD
+- OOP
+- ...
+
+## 📫 How to reach me
+
+[![LinkedIn Badge](https://img.shields.io/badge/marjandn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marjandavodinejad)
+
+[![Gmail Badge](https://img.shields.io/badge/marjandn-email%20me-red?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=marjan.dn7596@gmail.com)
