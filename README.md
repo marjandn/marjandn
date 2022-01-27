@@ -8,9 +8,9 @@ I'm an  Android and Flutter developer
 <p>
   <img  src="https://github-readme-stats.vercel.app/api?username=marjandn&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> 
 </p>
-<p> 
+<!-- <p> 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjandn&layout=compact&theme=dark" />
-</p>
+</p> -->
 
 ## 💻 Technologies in which I specialize ( always learning :wink: )
 - Kotlin
