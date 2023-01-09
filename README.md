@@ -1,7 +1,5 @@
 Hi 👋, I'm Marjan DavodiNejad, a Flutter Developer with Android background.
 
-- 🔭 I’m currently working on **my freelance projects**
-
 - 👩‍💻 All of my projects are available in the "Project" section of my [LinkedIn](https://www.linkedin.com/in/marjandavodinejad)
 
 - 📫 How to reach me **marjan.davodin@gmail.com**
