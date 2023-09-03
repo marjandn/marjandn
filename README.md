@@ -1,6 +1,6 @@
 Hi 👋, I'm Marjan DavodiNejad, a Flutter Developer with Android background.
 
-- 👩‍💻 All of my projects are available in the "Project" section of my [LinkedIn](https://www.linkedin.com/in/marjandavodinejad)
+- 👩‍💻 Know more about me and my experience with my [LinkedIn](https://www.linkedin.com/in/marjandavodinejad) profile
 
 - 📫 How to reach me **marjan.davodin@gmail.com**
 
